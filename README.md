@@ -1,4 +1,4 @@
 ### Hi, i am umair 👋
 
-![Umair Mustafa's Cover](https://drive.google.com/file/d/1oWcQUcEjSG1i8_l8Cjb1By8BVOUflV6X/view?usp=sharing)
+![Umair Mustafa's Cover](https://github.com/umairmustafa753/webStore/blob/master/images/GalaxyTabE.jpg)
 
