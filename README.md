@@ -21,8 +21,23 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-4287f5?style=flat-square&logo=tailwindcss)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Material](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=umairmustafa753&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairmustafa753&hide=TeX&layout=compact)
+
+### 📫 &nbsp; How to reach me:
+
+<a href="https://www.linkedin.com/in/umairmustafa753/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:umairmustafa753@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
+### 📫 &nbsp; My Website:
+
+<a href="https://umairmustafa.herokuapp.com"><img alt="umair's portfolio" src="https://img.shields.io/badge/umairmustafa-4287f5?style=flat&logo=circle&logoColor=white" /></a> &nbsp;
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=umairmustafa753.umairmustafa753)
