@@ -37,7 +37,7 @@
 
 ### 🌎 &nbsp; My Website:
 
-<a href="https://umairmustafa.herokuapp.com"><img alt="umair's portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white /></a> &nbsp;
+<a href="https://umairmustafa.herokuapp.com"><img alt="Gmail" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> &nbsp;
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=umairmustafa753.umairmustafa753)
