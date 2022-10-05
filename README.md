@@ -27,9 +27,6 @@
 ![Material](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=umairmustafa753&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairmustafa753&hide=TeX&layout=compact)
-
 ### 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/umairmustafa753/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
