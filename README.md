@@ -64,9 +64,6 @@
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=umairmustafa753.umairmustafa753)
-
-
-![cover](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
 </div>
 
 
