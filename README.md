@@ -53,12 +53,12 @@
  </div>
  
 <div align="center">
-### 📬 &nbsp; My Website:
+&nbsp; My Website: 📬 
 <br/>
 <a href="https://www.linkedin.com/in/umairmustafa753/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:umairmustafa753@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-### 🌎 &nbsp; My Website:
+&nbsp; My Website: 🌎 
 
 <a href="https://umairmustafa.herokuapp.com"><img alt="Gmail" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> &nbsp;
 
