@@ -1,7 +1,13 @@
+<div align="center">
 ### Hi there, I'm Umair. 👋
 
 ![Umair Mustafa's Cover](https://github.com/umairmustafa753/umairmustafa753/blob/main/images/umair's_github%20profile_pic.png)
 
+### About Me,
+
+ I am <b>Umair Mustafa</b>My name is Umair Mustafa. I'm a full-stack developer.I did BS Computer Science and have 2+ years of experience in developing JavaScript high performance web applications and services. My skill set include, but not limited to, ReactJS, React Native, Javascript, HTML, CSS, Bootstrap, Redux, NodeJS, ExpressJS, MySQL, MongoDB, Firebase, Test Driven Development, AWS Web Services and Product Design.
+ 
+ <h3 align="center"> Explorer | Web Developer | Open Source Contributor</h3>
 
 ## ⚡ Technologies
 
@@ -27,6 +33,26 @@
 ![Material](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+# ⚙️ GitHub Analytics
+  
+  <table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=umairmustafa753&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Umair Mustafa" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=umairmustafa753&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Umair Mustafa" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairmustafa753&theme=dark" alt="Umair Mustafa" /></p>
+  </div>
+
+# 📈 Contribution Graph  
+ [![Umair Mustafa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=umairmustafa753&&theme=xcode)](https://github.com/umairmustafa753)
+
+ </div>
+ 
+
 ### 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/umairmustafa753/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -38,3 +64,10 @@
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=umairmustafa753.umairmustafa753)
+
+
+![cover](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
+</div>
+
+
+ 
