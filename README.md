@@ -33,7 +33,7 @@
 ![Material](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-# ⚙️ GitHub Analytics
+# ⚙️ Umair Mustafa's GitHub Analytics
   
   <table>
   <tr>
@@ -52,7 +52,7 @@
 
  </div>
  
-
+<div align="center">
 ### 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/umairmustafa753/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -64,6 +64,7 @@
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=umairmustafa753.umairmustafa753)
+</div>
 </div>
 
 
