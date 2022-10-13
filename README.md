@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there, I'm Umair. 👋
+<h1>Hi there, I'm Umair. 👋</h1>
 
 ![Umair Mustafa's Cover](https://github.com/umairmustafa753/umairmustafa753/blob/main/images/umair's_github%20profile_pic.png)
 
