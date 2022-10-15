@@ -7,7 +7,7 @@
 
  I am <b>Umair Mustafa</b>. I'm a full-stack developer.I did BS Computer Science and have 2+ years of experience in developing JavaScript high performance web applications and services. My skill set include, but not limited to, ReactJS, React Native, NextJS, Javascript, HTML, CSS, Bootstrap, Redux, NodeJS, ExpressJS, MySQL, MongoDB, Firebase, Test Driven Development, AWS Web Services and Product Design.
  
- <h3 align="center"> Explorer | Full Stack Developer | Open Source Contributor</h3>
+ <h3 align="center"> Explorer | Full Stack Developer </h3>
 
 ## ⚡ Technologies
 
