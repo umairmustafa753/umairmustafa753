@@ -46,11 +46,6 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairmustafa753&theme=dark" alt="Umair Mustafa" /></p>
   </div>
-
-# 📈 Contribution Graph  
- [![Umair Mustafa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=umairmustafa753&&theme=xcode)](https://github.com/umairmustafa753)
-
- </div>
  
 <div align="center">
  <h1>&nbsp; My Website: 📬 </h1>
